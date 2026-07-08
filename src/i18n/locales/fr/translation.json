@@ -1,0 +1,357 @@
+{
+  "meta": {
+    "title": "BTech — Transformer les idées en expériences numériques",
+    "description": "BTech est une agence de solutions numériques qui crée des sites web, applications, identités de marque et supports marketing modernes."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "services": "Services",
+    "process": "Processus",
+    "portfolio": "Portfolio",
+    "pricing": "Tarifs",
+    "testimonials": "Témoignages",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Demander un devis"
+  },
+  "hero": {
+    "eyebrow": "Agence de solutions numériques",
+    "headline": "Nous créons des expériences numériques qui font grandir votre entreprise.",
+    "subtitle": "Sites web, applications, branding, logos, design graphique et marketing digital — tout ce dont votre entreprise a besoin pour se démarquer.",
+    "ctaPrimary": "Démarrer un projet",
+    "ctaSecondary": "Voir nos réalisations",
+    "trust": {
+      "projects": "100+ Projets",
+      "delivery": "Livraison rapide",
+      "tech": "Technologies modernes",
+      "responsive": "Design responsive"
+    },
+    "stats": {
+      "projects": "Projets réalisés",
+      "clients": "Clients satisfaits",
+      "years": "Années d'expérience",
+      "satisfaction": "Satisfaction client"
+    }
+  },
+  "about": {
+    "eyebrow": "À propos de BTech",
+    "title": "Nous construisons des identités numériques dont les entreprises sont fières.",
+    "description": "BTech est une agence de solutions numériques qui aide les entreprises de toute taille à établir une présence puissante et fiable, en ligne comme hors ligne. Nous combinons stratégie, design et ingénierie pour transformer les idées en expériences mémorables.",
+    "mission": "Notre mission est simple : offrir à chaque client l'identité numérique d'une grande marque, sans la complexité.",
+    "values": {
+      "creativity": {
+        "title": "Créativité",
+        "description": "Une réflexion design originale adaptée à votre marque, jamais de modèles génériques."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Des technologies modernes conçues pour la performance et la durabilité."
+      },
+      "professionalism": {
+        "title": "Professionnalisme",
+        "description": "Une communication claire et une livraison fiable à chaque étape."
+      },
+      "quality": { "title": "Qualité", "description": "Un souci du détail méticuleux, du design au code." },
+      "support": {
+        "title": "Support à long terme",
+        "description": "Nous restons à vos côtés bien après le lancement."
+      }
+    },
+    "timeline": {
+      "2019": {
+        "title": "Création de BTech",
+        "description": "Débuté comme un studio de deux personnes passionnées par le design."
+      },
+      "2021": {
+        "title": "Division applications web",
+        "description": "Extension vers les tableaux de bord, systèmes de réservation et logiciels métiers."
+      },
+      "2023": {
+        "title": "Studio branding & print",
+        "description": "Lancement d'un département dédié au branding et au design graphique."
+      },
+      "2025": {
+        "title": "Pôle restauration & hôtellerie",
+        "description": "Introduction du menu digital, de la commande QR et du branding pour l'hôtellerie."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "Ce que nous faisons",
+    "title": "Des services conçus pour faire avancer votre entreprise.",
+    "subtitle": "Du premier croquis au dernier pixel, nous couvrons chaque discipline dont votre présence numérique a besoin.",
+    "learnMore": "En savoir plus",
+    "items": {
+      "web-development": {
+        "title": "Développement web",
+        "description": "Des sites web modernes, rapides et responsives adaptés à votre marque."
+      },
+      "web-applications": {
+        "title": "Applications web",
+        "description": "Tableaux de bord sur mesure, systèmes de réservation, CRM et ERP."
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Création de logo, identité de marque, systèmes visuels et chartes graphiques."
+      },
+      "restaurant": {
+        "title": "Solutions restaurants",
+        "description": "Sites de restaurants, menus digitaux et QR, systèmes de commande."
+      },
+      "coffee-shop": {
+        "title": "Solutions cafés",
+        "description": "Menus, branding, sites web et menus QR pour cafés."
+      },
+      "graphic-design": {
+        "title": "Design graphique",
+        "description": "Cartes de visite, flyers, brochures, packaging et plus encore."
+      },
+      "digital-marketing": {
+        "title": "Marketing digital",
+        "description": "Design réseaux sociaux, créations publicitaires, landing pages et campagnes."
+      },
+      "ui-ux": {
+        "title": "Design UI/UX",
+        "description": "Applications mobiles, applications web, tableaux de bord, prototypes et wireframes."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Notre processus",
+    "title": "Un chemin clair, de l'idée au lancement.",
+    "subtitle": "Sept étapes structurées garantissent la transparence, le respect des délais et du budget.",
+    "steps": {
+      "discovery": {
+        "title": "Découverte",
+        "description": "Nous apprenons à connaître votre entreprise, votre audience et vos objectifs."
+      },
+      "planning": {
+        "title": "Planification",
+        "description": "Nous définissons le périmètre, la structure et la stratégie technique."
+      },
+      "design": {
+        "title": "Design",
+        "description": "Nous créons l'identité visuelle et l'expérience utilisateur."
+      },
+      "development": {
+        "title": "Développement",
+        "description": "Nous construisons avec un code propre, évolutif et prêt pour la production."
+      },
+      "testing": {
+        "title": "Tests",
+        "description": "Nous testons sur tous les appareils, navigateurs et cas particuliers."
+      },
+      "launch": {
+        "title": "Lancement",
+        "description": "Nous déployons votre projet auprès du monde entier."
+      },
+      "support": {
+        "title": "Support",
+        "description": "Nous restons disponibles pour les mises à jour et la croissance à long terme."
+      }
+    }
+  },
+  "portfolio": {
+    "eyebrow": "Nos réalisations",
+    "title": "Une sélection de projets qui parlent d'eux-mêmes.",
+    "subtitle": "Un aperçu des sites, applications et marques que nous avons contribué à créer.",
+    "filters": {
+      "all": "Tous",
+      "websites": "Sites web",
+      "web-apps": "Applications web",
+      "branding": "Branding",
+      "restaurant": "Restaurant",
+      "coffee-shop": "Café",
+      "graphic-design": "Design graphique"
+    },
+    "caseStudy": "Étude de cas",
+    "liveDemo": "Démo en ligne",
+    "modal": {
+      "technologies": "Technologies",
+      "challenges": "Défis",
+      "solutions": "Solutions",
+      "results": "Résultats"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Tarifs",
+    "title": "Des offres simples et transparentes pour chaque étape.",
+    "subtitle": "Choisissez l'offre adaptée à votre entreprise aujourd'hui — chaque offre peut évoluer avec vous.",
+    "popular": "Le plus populaire",
+    "cta": "Demander un devis",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Idéal pour les petites entreprises qui démarrent en ligne.",
+        "features": {
+          "f1": "Landing page",
+          "f2": "Design responsive",
+          "f3": "Formulaire de contact",
+          "f4": "Optimisation SEO de base",
+          "f5": "Livraison rapide"
+        }
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "Pour les entreprises en croissance qui veulent une présence numérique complète.",
+        "features": {
+          "f1": "Site multi-pages",
+          "f2": "Design UI/UX premium",
+          "f3": "Support arabe et français",
+          "f4": "Animations fluides",
+          "f5": "Optimisation SEO",
+          "f6": "Intégration CMS",
+          "f7": "Optimisation des performances",
+          "f8": "Support prioritaire"
+        }
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Applications web sur mesure pour des besoins complexes.",
+        "features": {
+          "f1": "Application web sur mesure",
+          "f2": "Tableau de bord admin",
+          "f3": "Système d'authentification",
+          "f4": "Intégrations API",
+          "f5": "Architecture de base de données",
+          "f6": "Déploiement & hébergement",
+          "f7": "Maintenance continue",
+          "f8": "Support technique à long terme"
+        }
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Pourquoi choisir BTech",
+    "title": "L'avantage de travailler avec BTech.",
+    "items": {
+      "fast": {
+        "title": "Livraison rapide",
+        "description": "Un processus optimisé pour lancer votre projet rapidement, sans raccourcis."
+      },
+      "design": {
+        "title": "Design professionnel",
+        "description": "Chaque pixel pensé, chaque interaction intentionnelle."
+      },
+      "pricing": {
+        "title": "Tarifs abordables",
+        "description": "Une qualité premium à des tarifs justes et transparents."
+      },
+      "tech": {
+        "title": "Technologies modernes",
+        "description": "Nous construisons avec les outils qui font le web de demain."
+      },
+      "responsive": {
+        "title": "Design responsive",
+        "description": "Une expérience parfaite sur tous les appareils et toutes les tailles d'écran."
+      },
+      "seo": {
+        "title": "Optimisé SEO",
+        "description": "Conçu pour être trouvé, indexé et bien classé dès le premier jour."
+      },
+      "scalable": {
+        "title": "Solutions évolutives",
+        "description": "Une architecture qui grandit aussi vite que votre entreprise."
+      },
+      "support": {
+        "title": "Support à long terme",
+        "description": "Un partenaire pour les mises à jour, améliorations et nouvelles fonctionnalités."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Témoignages",
+    "title": "La confiance des entreprises ambitieuses.",
+    "subtitle": "Ne nous croyez pas sur parole — écoutez les clients avec qui nous avons travaillé."
+  },
+  "technologies": {
+    "eyebrow": "Notre stack",
+    "title": "Les technologies que nous utilisons pour construire l'avenir.",
+    "subtitle": "Une boîte à outils moderne et éprouvée, choisie pour la performance, la fiabilité et l'évolutivité."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Questions fréquentes.",
+    "items": {
+      "timeline": {
+        "question": "Combien de temps dure un projet type ?",
+        "answer": "La plupart des sites web sont lancés en 2 à 4 semaines, tandis que les applications web prennent généralement 6 à 12 semaines selon la complexité."
+      },
+      "cost": {
+        "question": "Combien coûte un site web ?",
+        "answer": "Le prix dépend du périmètre et des fonctionnalités. Après un court appel de découverte, nous fournissons un devis transparent et fixe."
+      },
+      "revisions": {
+        "question": "Combien de révisions sont incluses ?",
+        "answer": "Chaque offre inclut des cycles de révision structurés à chaque étape du processus, afin que vous puissiez toujours donner votre avis."
+      },
+      "support": {
+        "question": "Proposez-vous un support après le lancement ?",
+        "answer": "Oui. Nous proposons des offres de maintenance, d'hébergement et de développement de nouvelles fonctionnalités après la mise en ligne."
+      },
+      "technologies": {
+        "question": "Avec quelles technologies travaillez-vous ?",
+        "answer": "Nous construisons avec React, TypeScript, Node.js et des bases de données modernes, choisies selon les besoins spécifiques de votre projet."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Contactez-nous",
+    "title": "Construisons ensemble quelque chose de formidable.",
+    "subtitle": "Parlez-nous de votre projet et notre équipe vous répondra sous un jour ouvré.",
+    "form": {
+      "name": "Nom complet",
+      "namePlaceholder": "Jean Dupont",
+      "email": "Adresse e-mail",
+      "emailPlaceholder": "jean@entreprise.com",
+      "phone": "Numéro de téléphone",
+      "phonePlaceholder": "+216 00 000 000",
+      "company": "Entreprise",
+      "companyPlaceholder": "Nom de votre entreprise",
+      "service": "Service souhaité",
+      "servicePlaceholder": "Sélectionnez un service",
+      "budget": "Budget estimé",
+      "budgetPlaceholder": "Sélectionnez une fourchette",
+      "message": "Détails du projet",
+      "messagePlaceholder": "Parlez-nous de votre projet...",
+      "submit": "Envoyer le message",
+      "submitting": "Envoi en cours...",
+      "success": "Merci ! Votre message a été envoyé avec succès.",
+      "error": "Une erreur est survenue. Veuillez réessayer.",
+      "budgets": {
+        "small": "Moins de 1 000 $",
+        "medium": "1 000 $ – 5 000 $",
+        "large": "5 000 $ – 15 000 $",
+        "enterprise": "15 000 $ et plus"
+      }
+    },
+    "info": {
+      "address": "Tunis, Tunisie",
+      "email": "hello@btech.agency",
+      "phone": "+216 00 000 000"
+    }
+  },
+  "footer": {
+    "description": "BTech est une agence de solutions numériques qui crée des sites web, applications et marques modernes pour les entreprises ambitieuses.",
+    "quickLinks": "Liens rapides",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "Tous droits réservés.",
+    "madeWith": "Conçu et développé avec soin par BTech."
+  },
+  "notFound": {
+    "title": "Page introuvable",
+    "description": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "cta": "Retour à l'accueil"
+  },
+  "common": {
+    "loading": "Chargement",
+    "backToTop": "Retour en haut",
+    "close": "Fermer",
+    "toggleTheme": "Changer de thème",
+    "toggleMenu": "Basculer le menu",
+    "next": "Suivant",
+    "previous": "Précédent"
+  }
+}

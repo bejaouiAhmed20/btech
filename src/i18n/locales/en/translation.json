@@ -1,0 +1,349 @@
+{
+  "meta": {
+    "title": "BTech — Transforming Ideas Into Digital Experiences",
+    "description": "BTech is a digital solutions agency crafting modern websites, web applications, branding, and marketing materials."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "process": "Process",
+    "portfolio": "Portfolio",
+    "pricing": "Pricing",
+    "testimonials": "Testimonials",
+    "faq": "FAQ",
+    "contact": "Contact",
+    "cta": "Get a Quote"
+  },
+  "hero": {
+    "eyebrow": "Digital Solutions Agency",
+    "headline": "We Build Digital Experiences That Grow Your Business.",
+    "subtitle": "Websites, Web Apps, Branding, Logos, Graphic Design & Digital Marketing — everything your business needs to stand out.",
+    "ctaPrimary": "Start Your Project",
+    "ctaSecondary": "View Our Work",
+    "trust": {
+      "projects": "100+ Projects",
+      "delivery": "Fast Delivery",
+      "tech": "Modern Technologies",
+      "responsive": "Responsive Design"
+    },
+    "stats": {
+      "projects": "Projects Completed",
+      "clients": "Happy Clients",
+      "years": "Years of Experience",
+      "satisfaction": "Customer Satisfaction"
+    }
+  },
+  "about": {
+    "eyebrow": "About BTech",
+    "title": "We build digital identities businesses can be proud of.",
+    "description": "BTech is a digital solutions agency helping businesses of every size establish a powerful, trustworthy presence online and offline. We combine strategy, design, and engineering to turn ideas into experiences people remember.",
+    "mission": "Our mission is simple: give every client the digital identity of a much bigger brand — without the complexity.",
+    "values": {
+      "creativity": {
+        "title": "Creativity",
+        "description": "Original design thinking tailored to your brand, never templates."
+      },
+      "innovation": {
+        "title": "Innovation",
+        "description": "Modern technology stacks built for performance and longevity."
+      },
+      "professionalism": {
+        "title": "Professionalism",
+        "description": "Clear communication and reliable delivery, every step of the way."
+      },
+      "quality": {
+        "title": "Quality",
+        "description": "Meticulous attention to detail across design and code."
+      },
+      "support": {
+        "title": "Long-term Support",
+        "description": "We stay by your side well beyond launch day."
+      }
+    },
+    "timeline": {
+      "2019": {
+        "title": "BTech is founded",
+        "description": "Started as a two-person studio with a passion for great design."
+      },
+      "2021": {
+        "title": "Web applications division",
+        "description": "Expanded into custom dashboards, booking systems, and business software."
+      },
+      "2023": {
+        "title": "Branding & print studio",
+        "description": "Launched a dedicated branding and graphic design department."
+      },
+      "2025": {
+        "title": "Restaurant & hospitality suite",
+        "description": "Introduced digital menu, QR ordering, and hospitality branding solutions."
+      }
+    }
+  },
+  "services": {
+    "eyebrow": "What We Do",
+    "title": "Services built to move your business forward.",
+    "subtitle": "From first sketch to final pixel, we cover every discipline your digital presence needs.",
+    "learnMore": "Learn more",
+    "items": {
+      "web-development": {
+        "title": "Website Development",
+        "description": "Modern, fast, and responsive websites tailored to your brand."
+      },
+      "web-applications": {
+        "title": "Web Application Development",
+        "description": "Custom dashboards, booking systems, CRM and ERP software."
+      },
+      "branding": {
+        "title": "Branding",
+        "description": "Logo design, brand identity, visual systems and guidelines."
+      },
+      "restaurant": {
+        "title": "Restaurant Solutions",
+        "description": "Restaurant websites, QR & digital menus, and ordering systems."
+      },
+      "coffee-shop": {
+        "title": "Coffee Shop Solutions",
+        "description": "Menus, branding, websites and QR menus for cafés."
+      },
+      "graphic-design": {
+        "title": "Graphic Design",
+        "description": "Business cards, flyers, brochures, packaging and more."
+      },
+      "digital-marketing": {
+        "title": "Digital Marketing",
+        "description": "Social media design, ad creatives, landing pages and campaigns."
+      },
+      "ui-ux": {
+        "title": "UI/UX Design",
+        "description": "Mobile apps, web apps, dashboards, prototypes and wireframes."
+      }
+    }
+  },
+  "process": {
+    "eyebrow": "Our Process",
+    "title": "A clear path from idea to launch.",
+    "subtitle": "Seven structured stages keep every project transparent, on time, and on budget.",
+    "steps": {
+      "discovery": {
+        "title": "Discovery",
+        "description": "We learn about your business, audience, and goals."
+      },
+      "planning": {
+        "title": "Planning",
+        "description": "We define scope, structure, and technical strategy."
+      },
+      "design": { "title": "Design", "description": "We craft the visual identity and user experience." },
+      "development": {
+        "title": "Development",
+        "description": "We build with clean, scalable, production-ready code."
+      },
+      "testing": { "title": "Testing", "description": "We test across devices, browsers and edge cases." },
+      "launch": { "title": "Launch", "description": "We deploy your project to the world." },
+      "support": { "title": "Support", "description": "We stay on hand for updates and long-term growth." }
+    }
+  },
+  "portfolio": {
+    "eyebrow": "Our Work",
+    "title": "Selected projects that speak for themselves.",
+    "subtitle": "A look at the websites, apps, and brands we've helped bring to life.",
+    "filters": {
+      "all": "All",
+      "websites": "Websites",
+      "web-apps": "Web Apps",
+      "branding": "Branding",
+      "restaurant": "Restaurant",
+      "coffee-shop": "Coffee Shop",
+      "graphic-design": "Graphic Design"
+    },
+    "caseStudy": "Case Study",
+    "liveDemo": "Live Demo",
+    "modal": {
+      "technologies": "Technologies",
+      "challenges": "Challenges",
+      "solutions": "Solutions",
+      "results": "Results"
+    }
+  },
+  "pricing": {
+    "eyebrow": "Pricing",
+    "title": "Simple, transparent packages for every stage.",
+    "subtitle": "Choose the package that fits your business today — every plan can grow with you.",
+    "popular": "Most Popular",
+    "cta": "Request a Quote",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Perfect for small businesses getting started online.",
+        "features": {
+          "f1": "Landing page",
+          "f2": "Responsive design",
+          "f3": "Contact form",
+          "f4": "Basic SEO setup",
+          "f5": "Quick delivery"
+        }
+      },
+      "professional": {
+        "name": "Professional",
+        "description": "For growing businesses that need a complete digital presence.",
+        "features": {
+          "f1": "Multi-page website",
+          "f2": "Premium UI/UX design",
+          "f3": "Arabic & French support",
+          "f4": "Smooth animations",
+          "f5": "SEO optimization",
+          "f6": "CMS integration",
+          "f7": "Performance optimization",
+          "f8": "Priority support"
+        }
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Custom web applications for complex business needs.",
+        "features": {
+          "f1": "Custom web application",
+          "f2": "Admin dashboard",
+          "f3": "Authentication system",
+          "f4": "API integrations",
+          "f5": "Database architecture",
+          "f6": "Deployment & hosting",
+          "f7": "Ongoing maintenance",
+          "f8": "Long-term technical support"
+        }
+      }
+    }
+  },
+  "why": {
+    "eyebrow": "Why Choose BTech",
+    "title": "The advantage of working with BTech.",
+    "items": {
+      "fast": {
+        "title": "Fast Delivery",
+        "description": "Streamlined process to launch your project quickly, without shortcuts."
+      },
+      "design": {
+        "title": "Professional Design",
+        "description": "Every pixel considered, every interaction intentional."
+      },
+      "pricing": {
+        "title": "Affordable Pricing",
+        "description": "Premium quality delivered at transparent, fair rates."
+      },
+      "tech": {
+        "title": "Modern Technologies",
+        "description": "We build with the tools that power tomorrow's web."
+      },
+      "responsive": {
+        "title": "Responsive Design",
+        "description": "Flawless experiences on any device, any screen size."
+      },
+      "seo": {
+        "title": "SEO Optimized",
+        "description": "Built to be found, indexed, and ranked from day one."
+      },
+      "scalable": {
+        "title": "Scalable Solutions",
+        "description": "Architecture that grows as fast as your business does."
+      },
+      "support": {
+        "title": "Long-term Support",
+        "description": "A partner for updates, improvements, and new features."
+      }
+    }
+  },
+  "testimonials": {
+    "eyebrow": "Testimonials",
+    "title": "Trusted by ambitious businesses.",
+    "subtitle": "Don't just take our word for it — hear from the clients we've worked with."
+  },
+  "technologies": {
+    "eyebrow": "Our Stack",
+    "title": "Technologies we use to build the future.",
+    "subtitle": "A modern, battle-tested toolkit chosen for performance, reliability, and scale."
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Frequently asked questions.",
+    "items": {
+      "timeline": {
+        "question": "How long does a typical project take?",
+        "answer": "Most websites launch in 2–4 weeks, while web applications typically take 6–12 weeks depending on complexity."
+      },
+      "cost": {
+        "question": "How much does a website cost?",
+        "answer": "Pricing depends on scope and features. After a short discovery call, we provide a transparent, fixed-price quote."
+      },
+      "revisions": {
+        "title": "revisions",
+        "question": "How many revisions are included?",
+        "answer": "Every package includes structured revision rounds at each stage of the process, so you always have input."
+      },
+      "support": {
+        "question": "Do you offer support after launch?",
+        "answer": "Yes. We offer ongoing maintenance, hosting, and feature-development packages after your project goes live."
+      },
+      "technologies": {
+        "question": "What technologies do you work with?",
+        "answer": "We build with React, TypeScript, Node.js, and modern databases, chosen based on your project's specific needs."
+      }
+    }
+  },
+  "contact": {
+    "eyebrow": "Get in Touch",
+    "title": "Let's build something great together.",
+    "subtitle": "Tell us about your project and our team will get back to you within one business day.",
+    "form": {
+      "name": "Full Name",
+      "namePlaceholder": "John Doe",
+      "email": "Email Address",
+      "emailPlaceholder": "john@company.com",
+      "phone": "Phone Number",
+      "phonePlaceholder": "+216 00 000 000",
+      "company": "Company",
+      "companyPlaceholder": "Your company name",
+      "service": "Service Needed",
+      "servicePlaceholder": "Select a service",
+      "budget": "Estimated Budget",
+      "budgetPlaceholder": "Select a budget range",
+      "message": "Project Details",
+      "messagePlaceholder": "Tell us about your project...",
+      "submit": "Send Message",
+      "submitting": "Sending...",
+      "success": "Thank you! Your message has been sent successfully.",
+      "error": "Something went wrong. Please try again.",
+      "budgets": {
+        "small": "Less than $1,000",
+        "medium": "$1,000 – $5,000",
+        "large": "$5,000 – $15,000",
+        "enterprise": "$15,000+"
+      }
+    },
+    "info": {
+      "address": "Tunis, Tunisia",
+      "email": "hello@btech.agency",
+      "phone": "+216 00 000 000"
+    }
+  },
+  "footer": {
+    "description": "BTech is a digital solutions agency crafting modern websites, applications, and brands for ambitious businesses.",
+    "quickLinks": "Quick Links",
+    "services": "Services",
+    "contact": "Contact",
+    "rights": "All rights reserved.",
+    "madeWith": "Designed & built with care by BTech."
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The page you're looking for doesn't exist or has been moved.",
+    "cta": "Back to Home"
+  },
+  "common": {
+    "loading": "Loading",
+    "backToTop": "Back to top",
+    "close": "Close",
+    "toggleTheme": "Toggle theme",
+    "toggleMenu": "Toggle menu",
+    "next": "Next",
+    "previous": "Previous"
+  }
+}

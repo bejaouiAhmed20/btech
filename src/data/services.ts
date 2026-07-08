@@ -1,0 +1,68 @@
+import type { Service } from '@/types'
+
+export const services: Service[] = [
+  {
+    id: 'web-development',
+    icon: 'Globe',
+    titleKey: 'services.items.web-development.title',
+    descriptionKey: 'services.items.web-development.description',
+    features: ['Responsive Design', 'Performance Optimized', 'SEO Ready'],
+    category: 'web-development',
+  },
+  {
+    id: 'web-applications',
+    icon: 'LayoutDashboard',
+    titleKey: 'services.items.web-applications.title',
+    descriptionKey: 'services.items.web-applications.description',
+    features: ['Custom Dashboards', 'Booking Systems', 'CRM & ERP'],
+    category: 'web-applications',
+  },
+  {
+    id: 'branding',
+    icon: 'Sparkles',
+    titleKey: 'services.items.branding.title',
+    descriptionKey: 'services.items.branding.description',
+    features: ['Logo Design', 'Brand Identity', 'Brand Guidelines'],
+    category: 'branding',
+  },
+  {
+    id: 'restaurant',
+    icon: 'UtensilsCrossed',
+    titleKey: 'services.items.restaurant.title',
+    descriptionKey: 'services.items.restaurant.description',
+    features: ['QR Menu', 'Digital Menu', 'Ordering Systems'],
+    category: 'restaurant',
+  },
+  {
+    id: 'coffee-shop',
+    icon: 'Coffee',
+    titleKey: 'services.items.coffee-shop.title',
+    descriptionKey: 'services.items.coffee-shop.description',
+    features: ['Menus', 'Branding', 'QR Menu'],
+    category: 'coffee-shop',
+  },
+  {
+    id: 'graphic-design',
+    icon: 'PenTool',
+    titleKey: 'services.items.graphic-design.title',
+    descriptionKey: 'services.items.graphic-design.description',
+    features: ['Business Cards', 'Flyers', 'Packaging'],
+    category: 'graphic-design',
+  },
+  {
+    id: 'digital-marketing',
+    icon: 'Megaphone',
+    titleKey: 'services.items.digital-marketing.title',
+    descriptionKey: 'services.items.digital-marketing.description',
+    features: ['Social Media', 'Ad Creatives', 'Campaign Design'],
+    category: 'digital-marketing',
+  },
+  {
+    id: 'ui-ux',
+    icon: 'Layers',
+    titleKey: 'services.items.ui-ux.title',
+    descriptionKey: 'services.items.ui-ux.description',
+    features: ['Wireframes', 'Prototypes', 'Mobile & Web Apps'],
+    category: 'ui-ux',
+  },
+]
